@@ -1,0 +1,27 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 200 200">
+  <!-- Background -->
+  <rect x="0" y="0" width="200" height="200" fill="#1a202c" rx="40" ry="40"/>
+  
+  <!-- Building shape -->
+  <path d="M50 160 L50 80 L100 40 L150 80 L150 160 Z" fill="#2d3748"/>
+  
+  <!-- Windows -->
+  <rect x="70" y="90" width="25" height="25" fill="#4299e1" rx="5" ry="5"/>
+  <rect x="105" y="90" width="25" height="25" fill="#4299e1" rx="5" ry="5"/>
+  <rect x="70" y="125" width="25" height="25" fill="#4299e1" rx="5" ry="5"/>
+  <rect x="105" y="125" width="25" height="25" fill="#4299e1" rx="5" ry="5"/>
+  
+  <!-- Energy-saving elements -->
+  <path d="M85 40 L100 30 L115 40 L100 50 Z" fill="#48bb78"/>
+  
+  <!-- Sync arrows -->
+  <path d="M40 100 A60 60 0 0 1 100 40" fill="none" stroke="#ed8936" stroke-width="8" stroke-linecap="round"/>
+  <path d="M160 100 A60 60 0 0 1 100 160" fill="none" stroke="#ed8936" stroke-width="8" stroke-linecap="round"/>
+  
+  <!-- Energy bolt -->
+  <path d="M95 65 L85 95 L100 95 L90 125" fill="none" stroke="#ecc94b" stroke-width="8" stroke-linecap="round" stroke-linejoin="round"/>
+  
+  <!-- WiFi-like waves for smart tech -->
+  <path d="M70 180 Q100 150 130 180" fill="none" stroke="#667eea" stroke-width="6" stroke-linecap="round"/>
+  <path d="M80 190 Q100 170 120 190" fill="none" stroke="#667eea" stroke-width="6" stroke-linecap="round"/>
+</svg>
